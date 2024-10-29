@@ -1,0 +1,10 @@
+{
+  "技术": [
+      "https://news-site.com/feed",
+      "http://www.ithome.com/rss/"
+  ],
+  "新闻": [
+      "http://feeds.feedburner.com/cnaFirstNews",
+      "http://cn.nytimes.com/rss/news.xml"
+  ]
+}
